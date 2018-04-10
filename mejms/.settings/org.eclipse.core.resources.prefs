@@ -1,4 +1,10 @@
 eclipse.preferences.version=1
+encoding//ps/ps.txt=UTF-8
 encoding//src/main/java=UTF-8
+encoding//src/main/java/com/learn/java/mejms/JMSConsumer.java=UTF-8
+encoding//src/main/java/com/learn/java/mejms/JMSProducer.java=UTF-8
+encoding//src/main/java/com/learn/java/mejms/pointtopoint/MqBean.java=UTF-8
+encoding//src/main/java/com/learn/java/mejms/pointtopoint/Receiver.java=UTF-8
+encoding//src/main/java/com/learn/java/mejms/pointtopoint/Sender.java=UTF-8
 encoding//src/test/java=UTF-8
 encoding/<project>=UTF-8

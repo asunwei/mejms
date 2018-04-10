@@ -1,0 +1,11 @@
+JMS演示
+https://www.cnblogs.com/jelynn/p/6702317.html
+
+
+spring整合JMS
+http://www.cnblogs.com/jelynn/p/6702423.html
+
+JMS两种发送格式
+
+１.点对点
+２.订阅－发布者
